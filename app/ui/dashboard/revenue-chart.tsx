@@ -9,6 +9,8 @@ import { fetchRevenue } from '@/app/lib/data';
 // https://www.chartjs.org/
 // https://airbnb.io/visx/
 
+// test
+
 export default async function RevenueChart() { // Made component async, removed the props
   const revenue = await fetchRevenue(); // Fetched data from inside component
 
