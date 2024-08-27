@@ -1,1 +1,1 @@
-## Dashbaord with Next.js App Router Course
+## Dashbaord with Next.js
