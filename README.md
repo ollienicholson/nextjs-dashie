@@ -1,1 +1,1 @@
-## Dashbaord with Next.js
+## Basic Dashbaord with Next.js
